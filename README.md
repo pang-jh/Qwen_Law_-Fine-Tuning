@@ -38,7 +38,7 @@ pip install -e ".[torch,metrics]"
   }
 ```
 ## 下载模型文件
-执行命令
+- 执行命令
 ```bash
 modelscope download --model Qwen/Qwen2.5-3B-Instruct --local_dir qwen2.5-3b-instruct
 ```
